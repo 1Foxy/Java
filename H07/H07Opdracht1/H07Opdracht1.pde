@@ -1,4 +1,4 @@
-String naam = "Woter";
+String naam = "Wouter";
 
 switch(naam){
   case "Willem":
