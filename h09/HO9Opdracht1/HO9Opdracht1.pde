@@ -1,5 +1,5 @@
 void setup(){
-  GemGetal();
+  Getal();
 }
 
 
@@ -8,7 +8,7 @@ void draw(){
 }
 
 
-void GemGetal(){
+void Getal(){
   int Getal1 = 30;
   int Getal2 =45;
   int antwoord;
